@@ -2,8 +2,9 @@
 
 A small URL shortener with click analytics, built with MongoDB, Express, React and Node.
 
-**Live site:** _add your deployed link here_
-**Repository:** _add your GitHub link here_
+**Live site:** https://linkvault-qkpn.onrender.com
+**Repository:** https://github.com/Sagar-Bharadwaj/linkvault
+Note: Hosted on a free tier, so the first load after a quiet period can take up to a minute.
 
 ## What it does
 
